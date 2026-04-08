@@ -8,8 +8,8 @@
 
 Started as a frontend developer, now designing and shipping full-stack AI products —<br/>from real-time interpretation systems to museum AI curators.
 
-[![Portfolio](https://img.shields.io/badge/🎬_Portfolio-141414?style=for-the-badge&logo=netflix&logoColor=E50914)](https://hwcho.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%9A%B0-%EC%A1%B0-8a6800393/)
+[![Portfolio](https://img.shields.io/badge/🎬_Portfolio-141414?style=for-the-badge&logo=netflix&logoColor=E50914)](https://portfolio-hyunwoo-cho.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starz-woo)
 [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gus007dn@naver.com)
 
 </div>
