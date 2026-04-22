@@ -74,18 +74,3 @@ Started as a frontend developer, now designing and shipping full-stack AI produc
 🏫 **광운대학교 (Kwangwoon University)** — 컴퓨터공학과 (2016 ~ 2022)
 
 ---
-
-<div align="center">
-
-📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starz-woo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starz-woo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=starz-woo&theme=radical&hide_border=true&background=0D1117)
-
----
-
-*"AI를 기능이 아닌 제품의 핵심으로."*
-
-</div>
