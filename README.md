@@ -16,15 +16,6 @@ Started as a frontend developer, now designing and shipping full-stack AI produc
 
 ---
 
-## 🔥 WIGTN Projects
-
-| Project | Description | Tech Highlights |
-|---------|-------------|-----------------|
-| 🌐 **[WIGVO](https://github.com/wigtn/wigvo-v2)** | AI 실시간 전화 통역 — 일반 전화망(PSTN)으로 실시간 AI 통역 | OpenAI Realtime API 듀얼 세션 · 557ms 중간 지연 · ACL 2026 제출 |
-| 🏛️ **[TimeLens](https://github.com/wigtn/wigtn-timelens)** | AI 박물관 큐레이터 — 카메라로 유물을 비추면 AI가 음성으로 설명 | Gemini Live API · 실시간 오디오+비디오 스트리밍 · AI 복원 이미지 |
-| 🎬 **[WIGVU](https://github.com/wigtn/wigvu)** | YouTube AI 분석 — 자막 추출, 번역, 요약, 하이라이트 탐지 | GPT-4o-mini · WhisperX STT · Circuit Breaker MSA |
-| 🤖 **[WIGTN Coding](https://github.com/wigtn/wigtn-plugins-with-claude-code)** | Claude Code 플러그인 — 12개 AI 에이전트 병렬 오케스트레이션 | /prd → /implement → /auto-commit 자동화 파이프라인 |
-
 ## 🛠️ Tech Stack
 
 <div align="center">
