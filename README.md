@@ -1,67 +1,48 @@
-<div align="center">
+<!--
+GitHub Profile README — for github.com/starz-woo/starz-woo
+1. Create a public repo named exactly `starz-woo`
+2. Copy this content into its README.md
+3. The README appears on https://github.com/starz-woo
+-->
 
-# 👋 Hi, I'm Hyunwoo Cho
+### 안녕하세요, 조현우입니다 · AI Product Engineer
 
-### 🚀 AI Product Engineer
+프론트엔드에서 시작해 지금은 프론트엔드와 백엔드를 아우르는 Product Engineer로 일하고 있습니다.  
+사용자 관점에서 출발해 비즈니스 임팩트까지 이어지는 엔드투엔드 개발을 지향합니다.
 
-*Building AI-native products that put artificial intelligence at the core, not as a side feature.*
-
-Started as a frontend developer, now designing and shipping full-stack AI products —<br/>from real-time interpretation systems to museum AI curators.
-
-[![Portfolio](https://img.shields.io/badge/🎬_Portfolio-141414?style=for-the-badge&logo=netflix&logoColor=E50914)](https://portfolio-hyunwoo-cho.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starz-woo)
-[![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gus007dn@naver.com)
-
-</div>
+[**Portfolio**](https://starz-woo.github.io) · [Email](mailto:gus007dn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/starz-woo) · [WIGTN Crew](https://wigtn.com)
 
 ---
 
-## 🛠️ Tech Stack
+#### Currently
 
-<div align="center">
+- **Soundmind** — Manager · Full-Stack (2025.02 – Present)
+- **WIGTN Crew** — AI-native open-source research crew
 
-**Languages**<br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+#### 2026 Highlights
 
-**Frontend**<br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+- **ACL 2026 System Demonstrations** — *WIGVO: Real-Time Bidirectional Speech Translation over Legacy PSTN Calls via Dual-Session Echo Gating* (paper accepted)
+- **Build with TRAE Seoul Hackathon 2026** — Grand Prize · WIGENT
+- **Snowflake AI & Data Hackathon 2026 Korea** — Final Round 준우승 · WIGTN FLAKE
 
-**Backend & Infra**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+#### Featured Projects
 
-**AI / ML**<br/>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+| Project | About | Stack |
+|---|---|---|
+| [**WIGVO**](https://github.com/wigtn/wigvo-v2) | 실시간 PSTN 전화 통역 — ACL 2026 채택 | Python · FastAPI · Twilio · OpenAI Realtime |
+| [**WIGTN Coding**](https://github.com/wigtn/wigtn-plugins-with-claude-code) | Claude Code 멀티 에이전트 플러그인 (★ 44) | Claude · Multi-agent |
+| [**WIGENT**](https://github.com/wigtn/wigent) | AI 토론 → 랜딩 페이지 자동 생성 — TRAE 대상 | Next.js · GPT-4o |
+| [**TimeLens**](https://github.com/wigtn/wigtn-timelens) | AI 박물관 컴패니언 — Gemini Live Challenge | Gemini Live · ADK · Firebase |
+| [**WIGSS**](https://www.npmjs.com/package/wigss) | 드래그로 소스를 리팩토링하는 비주얼 에이전트 | TypeScript · GPT-4o · WebSocket |
 
-**Database & BaaS**<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</div>
-
-## 💼 Career
-
-| Period | Company | Role |
-|:------:|---------|------|
-| 2025.02 ~ | 💻 **Soundmind** | MX Team Manager — Full-stack (Android / Frontend / Backend) |
-| 2021.07 ~ 08 | 💻 **Neogen Software** | Android Developer Intern |
-
-## 🎓 Education
-
-🏫 **광운대학교 (Kwangwoon University)** — 컴퓨터공학과 (2016 ~ 2022)
+전체 프로젝트는 → [**Portfolio**](https://starz-woo.github.io)
 
 ---
+
+#### Stack
+
+`React 19` `Next.js 16` `React Native` `TypeScript` `Python` `FastAPI` `NestJS` `Spring Boot` — `OpenAI` `Claude` `Gemini`
+
+---
+
+> Fast prototyping, strong engineering, shipping real things. — WIGTN Crew
